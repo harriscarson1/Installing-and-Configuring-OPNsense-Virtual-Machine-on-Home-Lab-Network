@@ -12,6 +12,8 @@ This tutorial outlines the  installation of OPNsense on my Home Lab<br />
 - VPN
 - CLI
 - OPNsense
+- Routing
+- Virtual Machines
 
 
 <h2>Operating Systems</h2>
