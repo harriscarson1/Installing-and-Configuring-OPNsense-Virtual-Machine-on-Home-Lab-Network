@@ -2,8 +2,8 @@
 <img src="" alt=""/>
 </p>
 
-<h1>Setting Up Tailscale VPN on Home Lab</h1>
-This tutorial outlines the  installation of Tailscale on my Home Lab<br />
+<h1>Installing and Configuring OPNsense Virtual Machine on Home Lab Network</h1>
+This tutorial outlines the  installation of OPNsense on my Home Lab<br />
 
 
 
@@ -11,13 +11,14 @@ This tutorial outlines the  installation of Tailscale on my Home Lab<br />
 
 - VPN
 - CLI
-- Tailscale
+- OPNsense
 
 
 <h2>Operating Systems</h2>
 
 - Linux
 - Proxmox
+- OPNsense
 
 
 <h2>Installation Steps</h2>
