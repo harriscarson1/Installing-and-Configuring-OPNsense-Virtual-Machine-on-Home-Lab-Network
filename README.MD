@@ -29,7 +29,7 @@ This tutorial outlines the  installation of OPNsense on my Home Lab<br />
 
   </p>
 <p>
-  <img src="" height="80%" width="80%"/>
+  <img src="https://github.com/harriscarson1/Installing-and-Configuring-OPNsense-Virtual-Machine-on-Home-Lab-Network/blob/main/6.png?raw=true" height="80%" width="80%"/>
 </p>
 <br />
 
